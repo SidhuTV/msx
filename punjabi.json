@@ -1,0 +1,321 @@
+{
+   "type": "pages",
+   "headline": "Videos",
+   "template": {
+      "tag": "Web",
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "icon": "msx-white-soft:movie",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "title": "TPS Network",
+         "action": "video:http://cdn10.live247stream.com/tpsnetwork/tv/playlist.m3u8"
+      },
+      {
+         "title": "MH1 News",
+         "action": "video:http://mhonestream.in:1935/mhone/mhonenews/index.m3u8"
+      },
+      {
+         "title": "DD Punjabi",
+         "action": "video:http://playhls1.media.nic.in/dvrlive/ddpunjabi/index.m3u8"
+      },
+      {
+         "title": "Chakde TV",
+         "action": "video:http://streamer3.ultapulta.com:7050"
+      },
+      {
+         "title": "ATN MH1",
+         "action": "video:http://atnlive.tatamediaservices.com/live/content/ATN1_MH1/HLS/ATN1_MH1-audio_20000=96000-video=1500000.m3u8"
+      },
+      {
+         "title": "ATN Punjabi",
+         "action": "video:http://atnlive.tatamediaservices.com/live/content/AlphaPunjabi/HLS/AlphaPunjabi-audio_20000=96000-video=1500000.m3u8"
+      },
+      {
+         "title": "Zee PHHP",
+         "action": "video:http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8"
+      },
+      {
+         "title": "News18 Punjab",
+         "action": "video:http://etv-haryana.akamaized.net/i/etv_haryana_live_1@349009/index_3_av-p.m3u8?sd=10&rebase=on"
+      },
+      {
+         "title": "E9",
+         "action": "video:http://cdn.samtv.ca/e9punjabi/index.m3u8"
+      },
+      {
+         "title": "LINews",
+         "action": "video:http://live.wmncdn.net/linews/fdb3289a938b59c7d9cab5f311b09966.sdp/index.m3u8"
+      },
+      {
+         "title": "PTC News",
+         "action": "video:http://195.181.169.151:8080/PTCNews-punjabi/index.m3u8"
+      },
+      {
+         "title": "PTC News 2",
+         "action": "video:http://185.59.223.140:8193/y_punjabi_PTC_News/index.m3u8"
+      },
+      {
+         "title": "PTC Punjabi BC",
+         "action": "video:http://195.181.169.151:8080/PTC_Punjabi_BC_Pun/index.m3u8"
+      },
+      {
+         "title": "PTC Punjabi",
+         "action": "video:http://195.181.169.151:8080/PTCPunjabi-punjabi/index.m3u8"
+      },
+      {
+         "title": "PTC Chakde",
+         "action": "video:http://195.181.169.151:8080/PTCChakDe-punjabi/index.m3u8"
+      },
+      {
+         "title": "Global Punjab TV",
+         "action": "video:http://207.244.112.71/globalpunjabhls/live.m3u8"
+      },
+      {
+         "title": "JUSPunjabi",
+         "action": "video:http://144.217.180.208:8080/JUSPunjabiTV-punjabi/index.m3u8"
+      },
+      {
+         "title": "Ankhila Punjab",
+         "action": "video:http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8"
+      },
+      {
+         "title": "SardariTV",
+         "action": "video:http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8"
+      },
+      {
+         "title": "5AAb",
+         "action": "video:http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"
+      },
+      {
+         "title": "5AAb Aus",
+         "action": "video:http://158.69.124.9:1935/live/ptn24/playlist.m3u8"
+      },
+      {
+         "title": "5AAbMusic",
+         "action": "video:http://158.69.124.9:1935/5aabtv/5aabmusic/playlist.m3u8"
+      },
+      {
+         "title": "Gabruu TV",
+         "action": "video:http://104.237.60.234/live/gabruutv.m3u8"
+      },
+      {
+         "title": "Steelbird Music",
+         "action": "video:http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/stream2/chunks.m3u8"
+      },
+      {
+         "title": "PrimeAsia TV",
+         "action": "video:http://primeasia.dyndns.tv:8080/Live_web_2500/index.m3u8"
+      },
+      {
+         "title": "Tehlka TV",
+         "action": "video:http://amarpadda1.flashmediacast.com:1935/amarpadda1/live/livestream/playlist.m3u8"
+      },
+      {
+         "title": "DPD",
+         "action": "video:http://live.wmncdn.net/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/index.m3u8"
+      },
+      {
+         "title": "LifePunjabi",
+         "action": "video:http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/index.m3u8"
+      },
+      {
+         "title": "ChannelY",
+         "action": "video:http://cdn19.live247stream.com/channely/stream1/playlist.m3u8"
+      },
+      {
+         "title": "Pitaara",
+         "action": "video:http://livepitaara.planetcast.in/pitaaraTV.m3u8"
+      },
+      {
+         "title": "Jashan TV",
+         "action": "video:http://live.wmncdn.net/mwtv/f1cf7bd21ba17d7e65fac82935e07dae.sdp/tracks-v1a1/index.m3u8"
+      },
+      {
+         "title": "VirsaTV",
+         "action": "video:http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8"
+      },
+      {
+         "title": "Shaan Punjabi",
+         "action": "video:http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8"
+      },
+      {
+         "title": "Wah Punjabi",
+         "action": "video:http://cdn.samtv.ca/wahpunjabi/index.m3u8"
+      },
+      {
+         "title": "SSTV",
+         "action": "video:http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8"
+      },
+      {
+         "title": "ApnaPunjab",
+         "action": "video:http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8"
+      },
+      {
+         "title": "SanjhaPunjab",
+         "action": "video:http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8"
+      },
+      {
+         "title": "MirrorPunjab",
+         "action": "video:http://cdn.samtv.ca/mirrorpunjab/playlist.m3u8"
+      },
+      {
+         "title": "MehakTV",
+         "action": "video:http://cdn.samtv.ca/mehaktv/playlist.m3u8"
+      },
+      {
+         "title": "MediaPunjab",
+         "action": "video:http://cdn.samtv.ca/mediapunjab/playlist.m3u8"
+      },
+      {
+         "title": "Trucking Today",
+         "action": "video:http://144.217.180.208:8080/Trucking_Today_Pun/index.m3u8"
+      },
+      {
+         "title": "DesPardes",
+         "action": "video:http://tejinder.srfms.com:2027/live/_definst_/livestream/playlist.m3u8"
+      },
+      {
+         "title": "9XTashan",
+         "action": "video:http://bhms2.airtel.tv/PLTV/88888888/224/3221226017/01.m3u8"
+      },
+      {
+         "title": "MH1",
+         "action": "video:http://144.217.180.208:8080/MH1MUSIC-punjabi/index.m3u8"
+      },
+      {
+         "title": "Only Music",
+         "action": "video:http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8"
+      },
+      {
+         "title": "Fastway TV",
+         "action": "video:http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams"
+      },
+      {
+         "title": "Brit Asia",
+         "action": "video:http://144.217.180.208:8080/BritAsia-punjabi/index.m3u8"
+      },
+      {
+         "title": "PTN",
+         "action": "video:http://cdn.samtv.ca/ptv24/playlist.m3u8"
+      },
+      {
+         "title": "Sabrang TV",
+         "action": "video:http://sydney.live247stream.com:8081/sabrang/tv/playlist.m3u8"
+      },
+      {
+         "title": "Pardesi TV",
+         "action": "video:http://144.217.180.208:8080/pardesi/index.m3u8"
+      },
+      {
+         "title": "CineVoice",
+         "action": "video:http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8"
+      },
+      {
+         "title": "MastiTV",
+         "action": "video:http://cdn.samtv.ca/mastitv/playlist.m3u8"
+      },
+      {
+         "title": "TV16Torronto",
+         "action": "video:http://live.wmncdn.net/tv16torronto/a2b79801456e711a48b1d80dedc18973.sdp/index.m3u8"
+      },
+      {
+         "title": "Boogle",
+         "action": "video:http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/index.m3u8"
+      },
+      {
+         "title": "DBHD",
+         "action": "video:http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8"
+      },
+      {
+         "title": "Gaunda Punjab",
+         "action": "video:http://144.217.180.208:8080/gaunda_punjanapp1088088/index.m3u8"
+      },
+      {
+         "title": "DAP",
+         "action": "video:http://tv.daplive.com:1935/live/live/playlist.m3u8"
+      },
+      {
+         "title": "Desi channel",
+         "action": "video:http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/index.m3u8"
+      },
+      {
+         "title": "Sanjh TV",
+         "action": "video:http://cdn13.live247stream.com/globalsanjh/tv/playlist.m3u8"
+      },
+      {
+         "title": "PBN Music",
+         "action": "video:http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/index.m3u8"
+      },
+      {
+         "title": "Hamdard TV",
+         "action": "video:http://cdn.samtv.ca/hamdard/index.m3u8"
+      },
+      {
+         "title": "Aone Punjabi",
+         "action": "video:http://live.wmncdn.net/aonepunjabi/9b6d0bb3102b87fae57bc4a39149518e.sdp/index.m3u8"
+      },
+      {
+         "title": "Chardikla TIME TV",
+         "action": "video:https://z5ams.akamaized.net/chardiktmtv/tracks-v1a1/index.m3u8"
+      },
+      {
+         "title": "Ankhila Punjab",
+         "action": "video:http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8"
+      },
+      {
+         "title": "Akaal TV",
+         "action": "video:http://144.217.180.208:8080/Akaal_Pun/index.m3u8"
+      },
+      {
+         "title": "Fateh TV INT",
+         "action": "video:http://175.176.184.11:1935/live/fatehtv/playlist.m3u8"
+      },
+      {
+         "title": "Fateh TV",
+         "action": "video:http://wowzaprodhd99-lh.akamaihd.net/i/f7e55f70_1@495776/index_1200000_av-p.m3u8"
+      },
+      {
+         "title": "SangatTV",
+         "action": "video:http://sangattv.flashmediacast.com:1975/live/livestream/playlist.m3u8"
+      },
+      {
+         "title": "EKTA Gurbani",
+         "action": "video:http://fastway.ddns.net:6421/fastway/glive/index.m3u8?token=fastwaytvstreams"
+      },
+      {
+         "title": "Saint TV",
+         "action": "video:http://159.203.9.134/hls/saint_tv/saint_tv.m3u8"
+      },
+      {
+         "title": "GurbaniTV",
+         "action": "video:http://173.255.140.23:8081/live/gtvna/playlist.m3u8"
+      },
+      {
+         "title": "Gurbani Healing",
+         "action": "video:http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8"
+      },
+      {
+         "title": "5aabGurbani",
+         "action": "video:http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8"
+      },
+      {
+         "title": "Sikh Channel USA",
+         "action": "video:http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams"
+      },
+      {
+         "title": "Garv Gurbani",
+         "action": "video:http://jiocgwhub.jio.ril.com/Garv_Gurbani/Garv_Gurbani_800.m3u8"
+      },
+      {
+         "title": "Ratwara sahib",
+         "action": "video:http://live.wmncdn.net/gurudwarasahib/f08a2f48b696fdfb759e62f7be8a0938.sdp/index.m3u8"
+      },
+      {
+         "title": "GDNS Ludhiana",
+         "action": "video:http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8"
+      }
+   ]
+}
