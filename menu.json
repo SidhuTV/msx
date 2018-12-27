@@ -1,0 +1,75 @@
+{
+   "headline": "SidhuTV",
+   "menu": [
+      {
+         "type": "separator"
+      },
+      {
+         "label": "LiveTV",
+         "data": {
+            "pages": [
+               {
+                  "items": [
+                     {
+                        "type": "button",
+                        "icon": "list",
+                        "layout": "0,0,3,3",
+                        "label": "Punjabi",
+                        "action": "content:http://sidhutv.altervista.org/msx/livetv/punjabi.json"
+                     },
+                     {
+                        "type": "button",
+                        "icon": "apps",
+                        "layout": "3,0,3,3",
+                        "label": "Hindi",
+                        "action": "content:http://sidhutv.altervista.org/msx/livetv/hindi.json"
+                     },
+                     {
+                        "type": "button",
+                        "icon": "web-asset",
+                        "layout": "6,0,3,3",
+                        "label": "Sports",
+                        "action": "content:http://sidhutv.altervista.org/msx/livetv/sports.json"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "type": "separator"
+      },
+      {
+         "label": "Movies",
+         "data": {
+            "pages": [
+               {
+                  "items": [
+                     {
+                        "type": "button",
+                        "icon": "list",
+                        "layout": "0,0,3,3",
+                        "label": "Punjabi",
+                        "action": "content:http://sidhutv.altervista.org/msx/movies/punjabi.json"
+                     },
+                     {
+                        "type": "button",
+                        "icon": "apps",
+                        "layout": "3,0,3,3",
+                        "label": "Hindi",
+                        "action": "content:content:http://sidhutv.altervista.org/msx/movies/hindi.json"
+                     },
+                     {
+                        "type": "button",
+                        "icon": "web-asset",
+                        "layout": "6,0,3,3",
+                        "label": "English",
+                        "action": "content:http://sidhutv.altervista.org/msx/livetv/english.json"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ]
+}
