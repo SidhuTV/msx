@@ -1,5 +1,5 @@
 {
     "name": "SidhuTV",
     "version": "1.0.0",
-    "parameter": "menu:http://sidhutv.altervista.org/msx/menu.json"
+    "parameter": "menu:https://raw.githubusercontent.com/SidhuTV/msx/master/menu.json"
 }
