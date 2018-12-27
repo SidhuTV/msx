@@ -15,21 +15,21 @@
                         "icon": "list",
                         "layout": "0,0,3,3",
                         "label": "Punjabi",
-                        "action": "content:http://sidhutv.altervista.org/msx/livetv/punjabi.json"
+                        "action": "content:https://raw.githubusercontent.com/SidhuTV/msx/master/punjabi.json"
                      },
                      {
                         "type": "button",
                         "icon": "apps",
                         "layout": "3,0,3,3",
                         "label": "Hindi",
-                        "action": "content:http://sidhutv.altervista.org/msx/livetv/hindi.json"
+                        "action": "content:https://raw.githubusercontent.com/SidhuTV/msx/master/hindi.json"
                      },
                      {
                         "type": "button",
                         "icon": "web-asset",
                         "layout": "6,0,3,3",
                         "label": "Sports",
-                        "action": "content:http://sidhutv.altervista.org/msx/livetv/sports.json"
+                        "action": "content:https://raw.githubusercontent.com/SidhuTV/msx/master/sports.json"
                      }
                   ]
                }
